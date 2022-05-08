@@ -4,7 +4,7 @@ React 18 уже доступен. Его можно скачать и пощуп
 
 ## Видео
 
-<!-- [![watch the video](https://img.youtube.com/vi/VVIh38sIAtA/maxresdefault.jpg)](https://youtu.be/VVIh38sIAtA) -->
+[![watch the video](https://img.youtube.com/vi/ktxHlkUTHCM/maxresdefault.jpg)](https://youtu.be/ktxHlkUTHCM)
 
 ## Социальные сети
 
